@@ -1,3 +1,3 @@
 # Education
-Data Science
+## Data Science
 Test 1
